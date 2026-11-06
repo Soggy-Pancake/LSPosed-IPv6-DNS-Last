@@ -1,6 +1,6 @@
 # LSPosed IPv6 DNS Last
 
-### WARNING: This is **PURE** slop.
+### WARNING: This is **PURE** slop. (Sonnet 5.5)
 
 This is an Xposed/Vector module to push the received IPv6 DNS from router announcements to minimum priority. Android by default adds it with the highest priority which prevents using Pi-hole. I am not interested in android development or Java. Don't expect this to receive support and fixes for other devices.
 
