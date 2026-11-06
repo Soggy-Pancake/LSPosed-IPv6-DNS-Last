@@ -13,10 +13,10 @@ This is an Xposed/Vector module to push the received IPv6 DNS from router announ
 
 ## Tested setup
 
-Sony Xperia 10 VII (XQ-FE72)
-Android 16 - Lineage OS 23.2 (23.2-20260517-NIGHTLY-pdx257)
-Zygisk Next 1.5.2 (864-a4a72ce-release)
-Vector v2.2 (3080-88f8e1fa-JingMatrix-Vector)
+Sony Xperia 10 VII (XQ-FE72)  
+Android 16 - Lineage OS 23.2 (23.2-20260517-NIGHTLY-pdx257)  
+Zygisk Next 1.5.2 (864-a4a72ce-release)  
+Vector v2.2 (3080-88f8e1fa-JingMatrix-Vector)  
 
 ## License
 
